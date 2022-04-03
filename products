@@ -2,6 +2,10 @@
 change comming from local repo
 =======
 changes comming from hussain
+<<<<<<< HEAD
 >>>>>>> e74df2cad0f1fe176848ca38da526f4772deeadc
 
 change again and push to remote
+=======
+another change from hussain 
+>>>>>>> ca1db6311a761803a9eb1a232bdf140521916fb2
